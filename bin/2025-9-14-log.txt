@@ -1,0 +1,12 @@
+15:31:57 => [info] first log message!
+15:31:57 => [info] /root/autodl-tmp/MPRPC/example/callee/friendservice.cc:main39
+15:31:57 => [info] service_name: FriendServiceRPC
+15:31:57 => [info] method_name: GetFriendList
+15:35:1 => [error] first log message!
+15:35:1 => [error] /root/autodl-tmp/MPRPC/example/callee/friendservice.cc:main39
+15:35:1 => [info] service_name: FriendServiceRPC
+15:35:1 => [info] method_name: GetFriendList
+15:44:24 => [error] first log message!
+15:44:24 => [info] /root/autodl-tmp/MPRPC/example/callee/friendservice.cc:main39
+15:44:24 => [info] service_name: FriendServiceRPC
+15:44:24 => [info] method_name: GetFriendList

@@ -1,0 +1,2 @@
+19:54:3=> first log message19:54:3=> /root/autodl-tmp/MPRPC/example/callee/friendservice.cc:main3919:58:37=> first log message!
+19:58:37=> /root/autodl-tmp/MPRPC/example/callee/friendservice.cc:main39
